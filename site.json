@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "asset_id": "oopbuy-github-pages-variant-selection-record-20260829",
+  "platform_id": "github-pages",
+  "brand": "Oopbuy",
+  "target_url": "https://oopbuyspsheet.com/",
+  "public_base_url": "https://anziteng.github.io/oopbuy-spreadsheet-variant-selection-record/",
+  "title": "Oopbuy Spreadsheet Variant Selection Record",
+  "content_angle": "A four-page tie exact option wording to identifiers and image context while preserving split conflicts. Its independent output remains useful without the project link and it makes no claim about current inventory, price, quality, eligibility, policy, or delivery outcomes.",
+  "difference_notes": "This variant selection record produces a distinct saved output, evidence field set, worked example, exception path, and decision vocabulary from earlier Oopbuy assets.",
+  "generator": "tools/run-auto-tasks-2026-08-26.mjs",
+  "content_quality": {
+    "depth_profile": "task_complete_v2",
+    "real_data_status": "unavailable",
+    "independent_user_task": "Complete one variant-selection review and save a variant selection record tying exact option wording to identifiers, images, conflicts, and a next check.",
+    "link_removed_value": "Without the brand, logo, CTA, or project link, the resource still teaches the method, exception path, worked example, and fields needed for a variant selection record tying exact option wording to identifiers, images, conflicts, and a next check.",
+    "compared_asset_ids": [
+      "oopbuy-github-pages-option-conflicts-01",
+      "oopbuy-github-pages-option-note-checker-01",
+      "oopbuy-github-pages-category-label-auditor-02",
+      "oopbuy-github-pages-csv-reimport-guide-03",
+      "oopbuy-github-pages-row-freshness-calendar-20260829"
+    ],
+    "unique_modules": [
+      "Assemble the selection evidence stack",
+      "Exact option wording",
+      "Visible identifier",
+      "Image association",
+      "Conflict or confirmation"
+    ],
+    "reused_paragraphs": [],
+    "duplicate_check_result": "Passed after comparing the task, output, field set, examples, and exceptions against oopbuy-github-pages-option-conflicts-01, oopbuy-github-pages-option-note-checker-01, oopbuy-github-pages-category-label-auditor-02, oopbuy-github-pages-csv-reimport-guide-03, oopbuy-github-pages-row-freshness-calendar-20260829.",
+    "depth_audit": {
+      "home": {
+        "visible_word_count": 699,
+        "h1_count": 1,
+        "h2_count": 7,
+        "section_count": 8,
+        "substantive_block_count": 27,
+        "long_block_count": 11,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "faq": {
+        "visible_word_count": 440,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 16,
+        "long_block_count": 7,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "usage-guide": {
+        "visible_word_count": 472,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 18,
+        "long_block_count": 12,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "alternatives": {
+        "visible_word_count": 491,
+        "h1_count": 1,
+        "h2_count": 9,
+        "section_count": 6,
+        "substantive_block_count": 21,
+        "long_block_count": 3,
+        "task_signal_count": 4,
+        "duplicate_block_count": 3,
+        "duplicate_block_ratio": 0.14285714285714285
+      }
+    }
+  }
+}

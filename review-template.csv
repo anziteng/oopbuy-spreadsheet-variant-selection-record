@@ -1,0 +1,2 @@
+scope,source_url,exact_selection,observed_at,accepted_evidence,conflict_or_gap,decision,next_action,owner,recheck_date
+"variant-selection review","https://example.invalid/source","Copy exact visible wording","YYYY-MM-DD","Describe only visible evidence","Name missing or conflicting evidence","keep | recheck | replace | defer","One concrete next check","reviewer","YYYY-MM-DD"
